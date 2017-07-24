@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Loading snapshots 1`] = `
+<span
+  aria-hidden={true}
+  className="fa fa-spinner fa-2x fa-spin"
+  style={
+    Object {
+      "color": "blue",
+      "textShadow": "0 1px 0 rgba(0, 0, 0, 0.1)",
+    }
+  }
+/>
+`;
